@@ -1,4 +1,4 @@
-# ROADMAP.md: Sistema de Gestión Financiera Personal
+# README.md: Sistema de Gestión Financiera Personal
 
 Este documento es la hoja de ruta para el desarrollo del Sistema de Gestión Financiera. Cada ítem es una tarea que debe ser completada. Marca cada tarea con una `[x]` una vez que esté finalizada.
 
